@@ -1,0 +1,14 @@
+#body{
+    background-color: lightblue;
+    display: inline-block;
+    vertical-align: top;
+    border: 3px solid black;
+    box-sizing: border-box;
+    width: 20%;
+    height: 500px;
+    margin-right: 20px;
+}
+button{
+    display: block;
+    margin-bottom: 20px;
+}
